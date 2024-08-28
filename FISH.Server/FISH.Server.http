@@ -1,0 +1,6 @@
+@FISH.Server_HostAddress = http://localhost:5128
+
+GET {{FISH.Server_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

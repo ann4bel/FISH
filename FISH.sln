@@ -1,0 +1,33 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.11.35219.272
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FISH.Server", "FISH.Server\FISH.Server.csproj", "{D0E516B2-6E00-4611-8B2B-EA6519B54E61}"
+EndProject
+Project("{54A90642-561A-4BB1-A94E-469ADEE60C69}") = "fish.client", "fish.client\fish.client.esproj", "{31969B0F-F1AA-46FB-80B7-D0D2CAC90693}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D0E516B2-6E00-4611-8B2B-EA6519B54E61}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D0E516B2-6E00-4611-8B2B-EA6519B54E61}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D0E516B2-6E00-4611-8B2B-EA6519B54E61}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D0E516B2-6E00-4611-8B2B-EA6519B54E61}.Release|Any CPU.Build.0 = Release|Any CPU
+		{31969B0F-F1AA-46FB-80B7-D0D2CAC90693}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{31969B0F-F1AA-46FB-80B7-D0D2CAC90693}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{31969B0F-F1AA-46FB-80B7-D0D2CAC90693}.Debug|Any CPU.Deploy.0 = Debug|Any CPU
+		{31969B0F-F1AA-46FB-80B7-D0D2CAC90693}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{31969B0F-F1AA-46FB-80B7-D0D2CAC90693}.Release|Any CPU.Build.0 = Release|Any CPU
+		{31969B0F-F1AA-46FB-80B7-D0D2CAC90693}.Release|Any CPU.Deploy.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {31D16FC7-4E78-4452-B8A3-0F3111025C6C}
+	EndGlobalSection
+EndGlobal
